@@ -1,2 +1,2 @@
 # LoanSim
-I want to create a loan simulator. 
+A loan simulator that can help you analyse projects
